@@ -1,2 +1,2 @@
 # 01-Assignment
-It is a array assignment.
+It is an array assignment.
