@@ -1,6 +1,6 @@
 
 public class Array9 {
-	
+	//sum of two element
 	public static void main(String[] args) {
 		int arr[] = {1, 7, 2, 9, 6};
 		Array9.sumOfTwoElements(arr);
